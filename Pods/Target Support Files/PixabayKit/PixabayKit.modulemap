@@ -1,0 +1,6 @@
+framework module PixabayKit {
+  umbrella header "PixabayKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

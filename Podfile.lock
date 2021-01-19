@@ -1,0 +1,16 @@
+PODS:
+  - PixabayKit (0.0.1)
+
+DEPENDENCIES:
+  - PixabayKit (from `./PixabayKit/PixabayKit.podspec`)
+
+EXTERNAL SOURCES:
+  PixabayKit:
+    :path: "./PixabayKit/PixabayKit.podspec"
+
+SPEC CHECKSUMS:
+  PixabayKit: 00fd6f63c0fbb6c70c7e88bb8ce15369bcaaf37f
+
+PODFILE CHECKSUM: 806dabf0d901d98c8774e52397870b1e958981e7
+
+COCOAPODS: 1.8.4

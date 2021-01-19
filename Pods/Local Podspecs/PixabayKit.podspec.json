@@ -1,0 +1,25 @@
+{
+  "name": "PixabayKit",
+  "version": "0.0.1",
+  "summary": "PixabayKit contains logic central to the idea of what features app can have",
+  "description": "PixabayKit contains logic central to the idea of what features app can have",
+  "homepage": "http://EXAMPLE/PixabayKit",
+  "license": "MIT licence",
+  "authors": {
+    "Apoorv Suri": "apoorvsuri2012@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": [
+    "PixabayKit",
+    "PixabayKit/**/*.swift"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
